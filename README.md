@@ -120,10 +120,7 @@ if _name_ == '_main_':
 ![robo](./img/robomaster.png)
 
 Insert image here
-
-
-<br/>
-<br/>![robatics image](https://github.com/Yeshwanthperumal/mobilerobot-openloopcontrol/assets/119476088/800f8abb-0565-4989-a605-50ed6079f654)
+![robatics image](https://github.com/Yeshwanthperumal/mobilerobot-openloopcontrol/assets/119476088/800f8abb-0565-4989-a605-50ed6079f654)
 
 <br/>
 <br/>
